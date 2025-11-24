@@ -1,10 +1,14 @@
 import './App.css'
+import Header from './ui/header/header';
 
 function App() {
 
   return (
     <>
-    <h1>Exo TodoList</h1>
+      <Header />
+      <main>
+        <h2>Correction !</h2>
+      </main>
     </>
   )
 }

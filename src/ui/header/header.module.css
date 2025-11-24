@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 5em;
+  padding: 1ch;
+  gap: 1ch;
+  align-items: center;
+  background-color: snow;
+  min-width: 100vw;
+  box-sizing: border-box;
+}
+
+.header img {
+  align-self: stretch;
+  height: 100%;
+}
