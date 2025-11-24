@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Faire les courses",
+    "desc": "Acheter du lait, du pain et des fruits",
+    "priority": "low",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "name": "Réunion projet",
+    "desc": "Participer à la réunion hebdomadaire avec l’équipe",
+    "priority": "urgent",
+    "isCompleted": false
+  },
+  {
+    "id": 3,
+    "name": "Sport",
+    "desc": "Aller courir 30 minutes au parc",
+    "priority": "urgent",
+    "isCompleted": true
+  },
+  {
+    "id": 4,
+    "name": "Lecture",
+    "desc": "Lire 20 pages du livre en cours",
+    "priority": "low",
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "name": "Envoyer rapport",
+    "desc": "Finaliser et envoyer le rapport mensuel au manager",
+    "priority": "urgent",
+    "isCompleted": false
+  }
+]
