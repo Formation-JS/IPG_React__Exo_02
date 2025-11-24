@@ -1,5 +1,5 @@
 import './App.css'
-import TaskForm from './components/TaskForm/TaskForm';
+import TodoList from './features/TodoList/TodoList';
 import Header from './ui/header/header';
 
 
@@ -9,8 +9,7 @@ function App() {
     <>
       <Header />
       <main>
-        <h2>Correction !</h2>
-        <TaskForm />
+        <TodoList />
       </main>
     </>
   )
