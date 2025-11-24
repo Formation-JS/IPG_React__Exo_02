@@ -1,0 +1,20 @@
+.task-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5ch;
+}
+
+.task-form div {
+  display: flex;
+  flex-direction: row;
+  gap: 1ch;
+}
+
+.task-form div label {
+  min-width: 10ch;
+}
+
+.task-form div textarea {
+  resize: none;
+  height: 3.6em;
+}
